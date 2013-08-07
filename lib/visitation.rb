@@ -1,5 +1,6 @@
-require "visitation/version"
+require 'visitation/visitors'
+require 'visitation/configuration'
 
 module Visitation
-  # Your code goes here...
+  include Configuration::Dsl
 end
