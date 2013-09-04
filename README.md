@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/gapinc/visitation.png?branch=master)](http://travis-ci.org/gapinc/visitation)
+
 # Visitation
 
 TODO: Write a gem description
