@@ -1,6 +1,7 @@
 # Visitation
 
-TODO: Write a gem description
+Visitation is a library for performing structural transformations on ruby data
+structures using the visitor pattern.
 
 ## Installation
 
