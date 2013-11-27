@@ -22,7 +22,7 @@ Or install it yourself as:
 Visitation includes a number of Visitor implementations out of the box, some of
 them include:
 
-# Merge Template
+### Merge Template
 
 Merges some data parameters into a template:
 
@@ -49,7 +49,7 @@ result.should == {
 }
 ```
 
-# Visit for View
+### Visit for View
 
 Extracts a sub tree from a data structure based on an existing data structure:
 
